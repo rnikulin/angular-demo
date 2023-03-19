@@ -1,3 +1,3 @@
 # angular-demo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-lbvlcc)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-demo)
